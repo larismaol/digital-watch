@@ -6,4 +6,5 @@
 
 👉<a href="https://larismaol.github.io/digital-watch/">GitHub Pages</a>👈
 
-![image](https://user-images.githubusercontent.com/115597015/221659511-c66d1c3c-7244-4034-af1f-46cec84d4a9c.png)
+![image](https://user-images.githubusercontent.com/115597015/222473116-cf0117a1-b416-482b-9c0a-2bf669513324.png)
+
