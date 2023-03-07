@@ -7,13 +7,8 @@ const watch = setInterval(function time(){
     let time = dateToday.getHours();
     let min = dateToday.getMinutes();
     let sec = dateToday.getSeconds();
-
-    if (time < 10) time = "0" + time;
-
-    if (min < 10) min = "0" + min;
-
-    if (sec < 10) sec = "0" + sec;
-
+   
+    time = time.toString().padStart(2, "0");
 
     hour.textContent = time;
     minute.textContent = min;
